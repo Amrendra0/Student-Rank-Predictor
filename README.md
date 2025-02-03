@@ -1,7 +1,7 @@
 # Student-Rank-Predictor
 
 output link - https://drive.google.com/file/d/1J6hYapquG2CzkQDbSWoRCPyr2U3PJesF/view?usp=drive_link
-
+video - https://drive.google.com/file/d/1cLYUAgZ0d4NtEXWsVd52Gyrip2QpJNvO/view?usp=drive_link
 Project Overview:
 
 The Student Rank Predictor for NEET Testline is a machine learning project aimed at predicting student ranks for the NEET exam based on their quiz performance data. The system analyzes student responses, generates insights from past NEET exam results, and predicts the rank a student may achieve in the NEET exam. Additionally, it predicts the most likely college a student could get into based on their rank.
